@@ -12,7 +12,7 @@
 </p> 
 
 - 🏢 I'm a Proggrammer At ISAG Corp.
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
+- 👨‍💻 As a Prep. student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with JavaScript, HTML, and CSS, or anything related to web development or web design.
 - 👨‍💻 Check out my portfolio at https://hamanny-abdullah.isagcorp.com/ to see some of the projects I've worked on.
 
